@@ -1,4 +1,4 @@
 .vscode/
 exe
 *.exe
-library-records.txt
+channel-service.txt
